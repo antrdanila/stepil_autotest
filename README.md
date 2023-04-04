@@ -1,3 +1,2 @@
-# stepil_autotest
-
-First update
+Решение задания лежит в репозитория в файле stepik_autotesting.py
+Хорошего дня!
